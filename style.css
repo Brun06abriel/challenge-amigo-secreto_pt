@@ -16,6 +16,7 @@
 }
 
 body {
+    background-color: #89bef3;
     height: 100vh;
     background-color: var(--color-primary);
     display: flex;
@@ -24,6 +25,8 @@ body {
 }
 
 .main-content {
+    
+    background-color: #89bef3;
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -32,6 +35,8 @@ body {
 
 /* Banner */
 .header-banner {
+    
+    background-color: #89bef3;
     flex: 40%;
     display: flex;
     justify-content: center;
@@ -41,6 +46,8 @@ body {
 
 /* Seção de entrada */
 .input-section {
+    
+    background-color: #89bef3;
     flex: 60%;
     background-color: var(--color-secondary);
     border: 1px solid #000;
